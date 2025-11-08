@@ -11,3 +11,6 @@ user_one=welcome("sudheer")
 user_one.greet()
 user_one=greet2()
 
+user_two=welcome("ram")
+user_two.greet()
+
