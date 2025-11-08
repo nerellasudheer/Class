@@ -10,3 +10,6 @@ user_one.greet()
 
 user_one=welcome("ram")
 user_one.greet()
+
+user_one=welcome("vishnu")
+user_one.greet()
