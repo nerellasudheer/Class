@@ -7,3 +7,6 @@ class welcome:
 
 user_one=welcome("sudheer")
 user_one.greet()
+
+user_one=welcome("ram")
+user_one.greet()
